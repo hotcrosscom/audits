@@ -16,7 +16,11 @@ This repository contains a public-facing list of audits that have been performed
 
 ## Cross Pool
 
-### 1.0.0
+### 1.0.2
+
+- Omniscia: [Pass](https://omniscia.io/hot-cross-cross-pool/)
+
+### 1.0.0 & 1.0.1
 
 - Beosin: [Pass](cross-pool/1.0.0/Beosin%20Audit%20Report%20-%20Cross%20Pool%20V1.0.0.pdf)
 - SlowMist: [Pass](cross-pool/1.0.0/SlowMist%20Audit%20Report%20-%20Cross%20Pool%20V1.0.0.pdf)
