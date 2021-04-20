@@ -2,7 +2,7 @@
 
 This repository contains a public-facing list of audits that have been performed on the Hot Cross codebase and select Hot Cross products. We attempt to adhere to [Semantic Versioning](https://semver.org/) at all times but aren't anywhere near perfect in this regard. If multiple audits take place on the same codebase at the same time then we sometimes adjust versioning on the fly to accomodate for that. We have thus far conducted audits with [Beosin](https://lianantech.com/), [SlowMist](https://www.slowmist.com/), and [Omniscia](https://omniscia.io/).
 
-## Cross Bridge
+## [Cross Bridge](cross-bridge/)
 
 ### 1.0.1
 
