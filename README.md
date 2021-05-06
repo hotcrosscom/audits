@@ -4,12 +4,12 @@ This repository contains a public-facing list of audits that have been performed
 
 ## [Cross Bridge](cross-bridge/)
 
-### 1.0.1
+### [1.0.1](cross-bridge/1.0.1/)
 
 - Beosin: [Pass](cross-bridge/1.0.1/Beosin%20Audit%20-%20Hot%20Cross%20BSC%20Bridge%20V1.0.1.pdf)
 - SlowMist: [Pass](cross-bridge/1.0.1/SlowMist%20Audit%20Report%20-%20Hot%20Cross%20BSC%20Bridge%20V1.0.1.pdf)
 
-### 1.0.0
+### [1.0.0](cross-bridge/1.0.0/)
 
 - Beosin: [Pass](cross-bridge/1.0.0/Beosin%20Audit%20-%20Hot%20Cross%20BSC%20Bridge%20V1.0.0.pdf)
 - SlowMist: [Pass](cross-bridge/1.0.0/SlowMist%20Audit%20Report%20-%20Hot%20Cross%20BSC%20Bridge%20V1.0.0.pdf)
