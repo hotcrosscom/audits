@@ -2,6 +2,12 @@
 
 This repository contains a public-facing list of audits that have been performed on the [Hot Cross](https://hotcross.com/) codebase and select Hot Cross products. We attempt to adhere to [Semantic Versioning](https://semver.org/) at all times but aren't anywhere near perfect in this regard. If multiple audits take place on the same codebase at the same time then we sometimes adjust versioning on the fly to accomodate for that. We have thus far conducted audits with [Beosin](https://lianantech.com/), [SlowMist](https://www.slowmist.com/), [Omniscia](https://omniscia.io/), and [Zokyo](https://www.zokyo.io/).
 
+## $HOTCROSS Token and Vesting
+
+### [1.0.0](cross-token/1.0.0/)
+
+- SlowMist: [Pass](cross-token/1.0.0/SlowMist%20Audit%20Report%20-%20Hot%20Cross%20Token.pdf)
+
 ## [Cross Bridge](cross-bridge/)
 
 ### [1.0.1](cross-bridge/1.0.1/)
