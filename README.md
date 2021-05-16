@@ -16,7 +16,7 @@ This repository contains a public-facing list of audits that have been performed
 
 ### 1.0.1
 
-- Omniscia: [Pass](https://omniscia.io/hot-cross-cross-pool/).
+- Omniscia: [Pass](https://omniscia.io/hot-cross-cross-pool/)
 
 ### [1.0.0](cross-token/1.0.0/)
 
