@@ -6,7 +6,7 @@ This repository contains a public-facing list of audits that have been performed
 
 ### [1.0.0](cross-token/1.0.0/)
 
-- Beosin: [Pass](cross-token/1.0.0/cross-token/1.0.0/Beosin%20Audit%20Report%20-%20Hot%20Cross%20Token.pdf)
+- Beosin: [Pass](cross-token/1.0.0/Beosin%20Audit%20Report%20-%20Hot%20Cross%20Token.pdf)
 - SlowMist: [Pass](cross-token/1.0.0/SlowMist%20Audit%20Report%20-%20Hot%20Cross%20Token.pdf)
 
 ## [Cross Bridge](cross-bridge/)
