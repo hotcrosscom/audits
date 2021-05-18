@@ -39,6 +39,10 @@ We have thus far conducted audits with [Beosin](https://lianantech.com/), [SlowM
 
 ## [Cross Pool](cross-pool/)
 
+### [1.0.5](cross-pool/1.0.5/)
+
+- PeckShield: [Pass](cross-pool/1.0.5/PeckShield%20Audit%20Report%20-%20Cross%20Pool%20V1.0.5.pdf)
+
 ### [1.0.3](cross-pool/1.0.3/) & [1.0.4](cross-pool/1.0.4/)
 
 - CertiK: [Pass](cross-pool/1.0.4/CertiK%20Audit%20Report%20-%20Cross%20Pool%20V1.0.4.pdf)
