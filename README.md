@@ -18,7 +18,7 @@ We have thus far conducted audits with [Beosin](https://lianantech.com/), [SlowM
 
 ### 1.0.1
 
-- Omniscia: [Pass](https://omniscia.io/hot-cross-cross-pool/)
+- Omniscia: [Pass](https://omniscia.io/hot-cross-vesting-implementation/)
 
 ### [1.0.0](cross-token/1.0.0/)
 
