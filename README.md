@@ -39,6 +39,10 @@ We have thus far conducted audits with [Beosin](https://lianantech.com/), [SlowM
 
 ## [Cross Pool](cross-pool/)
 
+### [1.0.3]()
+
+- CertiK: [Pass](cross-pool/1.0.3/CertiK%20Audit%20Report%20-%20Cross%20Pool%20V1.0.4.pdf)
+
 ### [1.0.2](cross-pool/1.0.2/)
 
 - Omniscia: [Pass](https://omniscia.io/hot-cross-cross-pool/)
