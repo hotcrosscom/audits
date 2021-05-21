@@ -2,4 +2,5 @@
 
 ## 1.0.0
 
-- Beosin ongoing
+- Beosin pass
+- SlowMist ongoing
