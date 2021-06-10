@@ -63,6 +63,10 @@ In the first iteration of Cross Pool, which has been rigorously [audited](cross-
 
 ## [Cross Mint](cross-mint/)
 
+### [1.0.1](cross-mint/1.0.1/)
+
+- SlowMist: [Pass](cross-mint/1.0.1/SlowMist%20Audit%20-%20Cross%20Mint%20V1.0.1.pdf)
+
 ### [1.0.0](cross-mint/1.0.0/)
 
 - Omniscia: [Pass](https://omniscia.io/hotcross-crossmint-nft-implementation/)
