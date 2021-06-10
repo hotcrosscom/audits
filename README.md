@@ -65,4 +65,5 @@ In the first iteration of Cross Pool, which has been rigorously [audited](cross-
 
 ### [1.0.0](cross-mint/1.0.0/)
 
+- Omniscia: [Pass](https://omniscia.io/hotcross-crossmint-nft-implementation/)
 - Beosin: [Pass](cross-mint/1.0.0/Beosin%20Audit%20-%20Cross%20Mint%20V1.0.0.pdf)
