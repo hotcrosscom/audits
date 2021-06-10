@@ -60,3 +60,9 @@ In the first iteration of Cross Pool, which has been rigorously [audited](cross-
 
 - Beosin: [Pass](cross-pool/1.0.0/Beosin%20Audit%20Report%20-%20Cross%20Pool%20V1.0.0.pdf)
 - SlowMist: [Pass](cross-pool/1.0.0/SlowMist%20Audit%20Report%20-%20Cross%20Pool%20V1.0.0.pdf)
+
+## [Cross Mint](cross-mint/)
+
+### [1.0.0](cross-mint/1.0.0/)
+
+- Beosin: [Pass](cross-mint/1.0.0/Beosin%20Audit%20-%20Cross%20Mint%20V1.0.0.pdf)
