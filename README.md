@@ -2,7 +2,7 @@
 
 This repository contains a public-facing list of audits that have been performed on the [Hot Cross](https://hotcross.com/) codebase and select Hot Cross products. We attempt to adhere to [Semantic Versioning](https://semver.org/) at all times but aren't anywhere near perfect in this regard. If multiple audits take place on the same codebase at the same time then we sometimes adjust versioning on the fly to accomodate for that. 
 
-We have thus far conducted audits with [Beosin](https://lianantech.com/), [SlowMist](https://www.slowmist.com/), [Omniscia](https://omniscia.io/), [Zokyo](https://www.zokyo.io/), [CertiK](https://www.certik.org/), and [PeckShield](https://peckshield.com/en). (6, for those who are participating in the BSC Learn & Earn campaign 😅)
+We have thus far conducted audits with [Beosin](https://lianantech.com/), [SlowMist](https://www.slowmist.com/), [Omniscia](https://omniscia.io/), [Zokyo](https://www.zokyo.io/), [CertiK](https://www.certik.org/), and [PeckShield](https://peckshield.com/en). (6, for those who are participating in the [BSC Learn & Earn](https://docs.google.com/forms/d/1HJzA0RSfS9thAbHXkJ1ckKyVqxdMvYMzXhG-Kvox8_Q/viewform?edit_requested=true) campaign 😅)
 
 ## [$HOTCROSS Token and Vesting](cross-token/)
 
