@@ -44,9 +44,9 @@ We have thus far conducted audits with [Beosin](https://lianantech.com/), [SlowM
 
 ## [Cross Pool](cross-pool/)
 
-💡 TLDR: Cross Pool V1 is a "[launchpool](https://www.binance.com/en/blog/421499824684900950/Everything-You-Need-to-Know-About-Binance-Launchpool-How-to-Farm-Tokens-Calculate-APY--More)" on [Binance Smart Chain](https://www.binance.org/en/smartChain) and by extension a launchpool that's compatible with ETH and most EVM networks. It introduces features that we want, not only to launch `$HOTCROSS` to market but also to allow for other teams in the space to participate in LP staking and single-sided staking without having to reinvent the wheel on-chain as we've done. 
+💡 TLDR: [Cross Pool](https://crosspool.hotcross.com/) V1 is a "[launchpool](https://www.binance.com/en/blog/421499824684900950/Everything-You-Need-to-Know-About-Binance-Launchpool-How-to-Farm-Tokens-Calculate-APY--More)" on [Binance Smart Chain](https://www.binance.org/en/smartChain) and by extension a launchpool that's compatible with ETH and most EVM networks. It introduces features that we want, not only to launch `$HOTCROSS` to market but also to allow for other teams in the space to participate in LP staking and single-sided staking without having to reinvent the wheel on-chain as we've done. 
 
-In the first iteration of Cross Pool, which has been rigorously [audited](cross-pool/1.0.5/), we support: **a) rewards pools with multiple LP token staking pools, b) rewards pools with single-sided staking pools, c) rewards pools with a mix of both, and d) delayed pools that reward users but only after a certain amount of time has passed.** We're stoked to be launching this on mainnet in the coming days and also distributing a large portion of `$HOTCROSS` on it.
+In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which has been rigorously [audited](cross-pool/1.0.5/), we support: **a) rewards pools with multiple LP token staking pools, b) rewards pools with single-sided staking pools, c) rewards pools with a mix of both, and d) delayed pools that reward users but only after a certain amount of time has passed.** We're stoked to be launching this on mainnet in the coming days and also distributing a large portion of `$HOTCROSS` on it.
 
 ### [1.0.5](cross-pool/1.0.5/)
 
