@@ -16,6 +16,11 @@ We have thus far conducted audits with [Beosin](https://lianantech.com/), [SlowM
 - ERC20 Contract Address: [0x4297394c20800E8a38A619A243E9BbE7681Ff24E](https://etherscan.io/address/0x4297394c20800e8a38a619a243e9bbe7681ff24e)
 - BEP20 Contract Address: [0x4FA7163E153419E0E1064e418dd7A99314Ed27b6](https://bscscan.com/address/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6)
 
+### 1.0.2
+
+- Beosin: Pass
+- SlowMist: Pass
+
 ### 1.0.1
 
 - Omniscia: [Pass](https://omniscia.io/hot-cross-vesting-implementation/)
