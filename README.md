@@ -4,7 +4,7 @@ This repository contains a public-facing list of audits that have been performed
 
 We have thus far conducted audits with [Beosin](https://lianantech.com/), [SlowMist](https://www.slowmist.com/), [Omniscia](https://omniscia.io/), [Zokyo](https://www.zokyo.io/), [CertiK](https://www.certik.org/), and [PeckShield](https://peckshield.com/en). (6, for those who are participating in the [BSC Learn & Earn](https://docs.google.com/forms/d/1HJzA0RSfS9thAbHXkJ1ckKyVqxdMvYMzXhG-Kvox8_Q/viewform?edit_requested=true) campaign 😅)
 
-## [$HOTCROSS Token and Vesting](cross-token/)
+## [Hot Cross Token and Vesting](cross-token/)
 
 ### General Information
 
