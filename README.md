@@ -2,7 +2,7 @@
 
 This repository contains a public-facing list of audits that have been performed on the [Hot Cross](https://hotcross.com/) codebase and select Hot Cross products. We attempt to adhere to [Semantic Versioning](https://semver.org/) at all times but aren't anywhere near perfect in this regard. If multiple audits take place on the same codebase at the same time then we sometimes adjust versioning on the fly to accomodate for that. 
 
-We have thus far conducted audits with [Beosin](https://lianantech.com/), [SlowMist](https://www.slowmist.com/), [Omniscia](https://omniscia.io/), [Zokyo](https://www.zokyo.io/), [CertiK](https://www.certik.org/), and [PeckShield](https://peckshield.com/en). (6, for those who are participating in the [BSC Learn & Earn](https://docs.google.com/forms/d/1HJzA0RSfS9thAbHXkJ1ckKyVqxdMvYMzXhG-Kvox8_Q/viewform?edit_requested=true) campaign 😅)
+We have thus far conducted audits with [Beosin](https://lianantech.com/), [SlowMist](https://www.slowmist.com/), [Omniscia](https://omniscia.io/), [Zokyo](https://www.zokyo.io/), [CertiK](https://www.certik.org/), and [PeckShield](https://peckshield.com/en).
 
 ## [Hot Cross Token and Vesting](cross-token/)
 
@@ -12,7 +12,8 @@ We have thus far conducted audits with [Beosin](https://lianantech.com/), [SlowM
 - Token Symbol: `$HOTCROSS`
 - Token Decimals: `18`
 - Total Supply: `500,000,000`
-- Initial Circulating Supply: `85,750,000` (The full token emission schedule is [here](http://hotcross.link/token).)
+- Initial Circulating Supply: `85,750,000` (The full token emission schedule is [here](https://hotcross.link/hotcross-economy).)
+- Current Supply: https://api.hotcross.com/supply
 - ERC20 Contract Address: [0x4297394c20800E8a38A619A243E9BbE7681Ff24E](https://etherscan.io/address/0x4297394c20800e8a38a619a243e9bbe7681ff24e)
 - BEP20 Contract Address: [0x4FA7163E153419E0E1064e418dd7A99314Ed27b6](https://bscscan.com/address/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6)
 
