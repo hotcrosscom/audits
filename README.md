@@ -33,6 +33,8 @@ We have thus far conducted audits with [Beosin](https://lianantech.com/), [SlowM
 
 ## [Cross Bridge](cross-bridge/)
 
+💡 Note that this is now live on mainnet at [bridge.hotcross.com](https://bridge.hotcross.com/).
+
 ### [1.0.1](cross-bridge/1.0.1/)
 
 - Beosin: [Pass](cross-bridge/1.0.1/Beosin%20Audit%20-%20Hot%20Cross%20BSC%20Bridge%20V1.0.1.pdf)
@@ -68,6 +70,8 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 - SlowMist: [Pass](cross-pool/1.0.0/SlowMist%20Audit%20Report%20-%20Cross%20Pool%20V1.0.0.pdf)
 
 ## [Cross Mint](cross-mint/)
+
+💡 Note that this is now live on mainnet at [mint.hotcross.com](https://mint.hotcross.com/).
 
 ### [1.0.1](cross-mint/1.0.1/)
 
