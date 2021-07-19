@@ -75,7 +75,7 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 ---
 
-### Smart Contract Addresses
+### Smart Contract Addresses ([BSC](https://www.binance.org/en), [ETH](https://ethereum.org/en/), [MATIC](https://polygon.technology/))
 
 ```json
 // Binance Smart Chain
