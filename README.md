@@ -73,9 +73,9 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 💡 Note that this is now live on mainnet at [mint.hotcross.com](https://mint.hotcross.com/).
 
-Important mainnet addresses are below:
-
 ---
+
+### Smart Contract Addresses
 
 ```json
 // Binance Smart Chain
