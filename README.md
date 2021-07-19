@@ -73,6 +73,30 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 💡 Note that this is now live on mainnet at [mint.hotcross.com](https://mint.hotcross.com/).
 
+Important mainnet addresses are below:
+
+---
+
+```json
+// Binance Smart Chain
+{
+  "crossMint721": "0x1316F7D656ea26Aa8141cb045329168b15E72186",
+  "crossMint1155": "0x460f839F260E7e418dd7e4D8dEC811694a33b588"
+}
+// Ethereum
+{
+  "crossMint721": "0x096aD12B21DdF0EfdeC692532a0d1B42Fab59aEA",
+  "crossMint1155": "0xC5Af3186829A38b06B8FD02c10683E9629A5Bbe7"
+}
+// Polygon
+{
+  "crossMint721": "0xd87a431067CAab669fF72ea4bCFd03A513D80bEd",
+  "crossMint1155": "0x0C3d4dD9968c59302575d3D3E764c47180801057"
+}
+```
+
+---
+
 ### [1.0.1](cross-mint/1.0.1/)
 
 - SlowMist: [Pass](cross-mint/1.0.1/SlowMist%20Audit%20-%20Cross%20Mint%20V1.0.1.pdf)
