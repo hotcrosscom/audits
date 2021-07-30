@@ -71,11 +71,11 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 ## [Cross Mint](cross-mint/)
 
-💡 Note that this is now live on mainnet at [mint.hotcross.com](https://mint.hotcross.com/).
+💡 Cross Mint is a multi-chain 721/1155 NFT minter that allows creators and hobbyists to mint our their creations on Ethereum, Polygon, Binance Smart Chain, and HECO. This is now live on mainnet and available for use at [mint.hotcross.com](https://mint.hotcross.com/).
 
 ---
 
-### Smart Contract Addresses ([BSC](https://www.binance.org/en), [ETH](https://ethereum.org/en/), [MATIC](https://polygon.technology/))
+### Smart Contract Addresses ([BSC](https://www.binance.org/en), [ETH](https://ethereum.org/en/), [MATIC](https://polygon.technology/), [HECO](https://www.hecochain.com/en-us/))
 
 ```json
 // Binance Smart Chain
@@ -92,6 +92,11 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 {
   "crossMint721": "0xd87a431067CAab669fF72ea4bCFd03A513D80bEd",
   "crossMint1155": "0x0C3d4dD9968c59302575d3D3E764c47180801057"
+}
+// Huobi ECO Chain
+{
+  "crossMint721": "0xDfb7CbE6a3e889216fFd84AA603453A1D6B40eBC",
+  "crossMint1155": "0xF5E9FF9BfFeeA5d8AB13f7caE3f25e6A4083b808"
 }
 ```
 
