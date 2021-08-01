@@ -16,6 +16,7 @@ We have thus far conducted audits with [Beosin](https://lianantech.com/), [SlowM
 - Current Supply: https://api.hotcross.com/supply
 - ERC20 Contract Address: [0x4297394c20800E8a38A619A243E9BbE7681Ff24E](https://etherscan.io/address/0x4297394c20800e8a38a619a243e9bbe7681ff24e)
 - BEP20 Contract Address: [0x4FA7163E153419E0E1064e418dd7A99314Ed27b6](https://bscscan.com/address/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6)
+- Polygon Contract Address: [0x3b737a181f7d2532cF49864f8050b3465a310593](https://polygonscan.com/token/0x3b737a181f7d2532cF49864f8050b3465a310593)
 
 ### [1.0.2](cross-token/1.0.2/)
 
