@@ -21,8 +21,6 @@ We have thus far conducted audits with [Beosin](https://lianantech.com/), [SlowM
 
 Canonical (and thus its audits) resides on Ethereum. The Binance Smart Chain BEP20 is an ever-fluctuating supply that relies on the inflow and outflow of [Cross Bridge](https://bridge.hotcross.com/), and 3rd-party mapped assets rely on those bridge technologies.
 
----
-
 ### [1.0.2](cross-token/1.0.2/)
 
 - Beosin: [Pass](cross-token/1.0.2/Beosin%20Audit%20Report%20-%20Hot%20Cross%20Token%20V1.0.2.pdf)
@@ -37,6 +35,8 @@ Canonical (and thus its audits) resides on Ethereum. The Binance Smart Chain BEP
 - Beosin: [Pass](cross-token/1.0.0/Beosin%20Audit%20Report%20-%20Hot%20Cross%20Token%20V1.0.0.pdf)
 - SlowMist: [Pass](cross-token/1.0.0/SlowMist%20Audit%20Report%20-%20Hot%20Cross%20Token%20V1.0.0.pdf)
 
+---
+
 ## [Cross Bridge](cross-bridge/)
 
 💡 Note that this is now live on mainnet at [bridge.hotcross.com](https://bridge.hotcross.com/).
@@ -50,6 +50,8 @@ Canonical (and thus its audits) resides on Ethereum. The Binance Smart Chain BEP
 
 - Beosin: [Pass](cross-bridge/1.0.0/Beosin%20Audit%20-%20Hot%20Cross%20BSC%20Bridge%20V1.0.0.pdf)
 - SlowMist: [Pass](cross-bridge/1.0.0/SlowMist%20Audit%20Report%20-%20Hot%20Cross%20BSC%20Bridge%20V1.0.0.pdf)
+
+---
 
 ## [Cross Pool](cross-pool/)
 
@@ -75,11 +77,11 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 - Beosin: [Pass](cross-pool/1.0.0/Beosin%20Audit%20Report%20-%20Cross%20Pool%20V1.0.0.pdf)
 - SlowMist: [Pass](cross-pool/1.0.0/SlowMist%20Audit%20Report%20-%20Cross%20Pool%20V1.0.0.pdf)
 
+---
+
 ## [Cross Mint](cross-mint/)
 
 💡 Cross Mint is a multi-chain 721/1155 NFT minter that allows creators and hobbyists to mint our their creations on Ethereum, Polygon, Binance Smart Chain, and HECO. This is now live on mainnet and available for use at [mint.hotcross.com](https://mint.hotcross.com/).
-
----
 
 ### Smart Contract Addresses ([BSC](https://www.binance.org/en), [ETH](https://ethereum.org/en/), [MATIC](https://polygon.technology/), [HECO](https://www.hecochain.com/en-us/))
 
@@ -106,8 +108,6 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 }
 ```
 
----
-
 ### [1.0.1](cross-mint/1.0.1/)
 
 - SlowMist: [Pass](cross-mint/1.0.1/SlowMist%20Audit%20-%20Cross%20Mint%20V1.0.1.pdf)
@@ -116,3 +116,5 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 - Omniscia: [Pass](https://omniscia.io/hotcross-crossmint-nft-implementation/)
 - Beosin: [Pass](cross-mint/1.0.0/Beosin%20Audit%20-%20Cross%20Mint%20V1.0.0.pdf)
+
+---
