@@ -81,9 +81,9 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 ## [Cross Mint](cross-mint/)
 
-💡 Cross Mint is a multi-chain 721/1155 NFT minter that allows creators and hobbyists to mint our their creations on Ethereum, Polygon, Binance Smart Chain, and HECO. This is now live on mainnet and available for use at [mint.hotcross.com](https://mint.hotcross.com/).
+💡 Cross Mint is a multi-chain 721/1155 NFT minter that allows creators and hobbyists to mint our their creations on Ethereum, Polygon, Binance Smart Chain, HECO, and KCC. This is now live on mainnet and available for use at [mint.hotcross.com](https://mint.hotcross.com/).
 
-### Smart Contract Addresses ([BSC](https://www.binance.org/en), [ETH](https://ethereum.org/en/), [MATIC](https://polygon.technology/), [HECO](https://www.hecochain.com/en-us/))
+### Smart Contract Addresses ([BSC](https://bscscan.com/), [ETH](https://etherscan.io/), [MATIC](https://polygonscan.com/), [HECO](https://scan.hecochain.com/home/index), [KCC](https://explorer.kcc.io/en/))
 
 ```json
 // Binance Smart Chain
@@ -105,6 +105,11 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 {
   "crossMint721": "0xDfb7CbE6a3e889216fFd84AA603453A1D6B40eBC",
   "crossMint1155": "0xF5E9FF9BfFeeA5d8AB13f7caE3f25e6A4083b808"
+}
+// KuCoin Community Chain
+{
+  "crossMint721": "0xe3a0c65cac05d952331cFEb87EdFE84B3799fc0B",
+  "crossMint1155": "0xf912584A01797bfcE9F1029BE943458D30D170DB"
 }
 ```
 
