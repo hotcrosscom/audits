@@ -111,6 +111,11 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
   "crossMint721": "0xe3a0c65cac05d952331cFEb87EdFE84B3799fc0B",
   "crossMint1155": "0xf912584A01797bfcE9F1029BE943458D30D170DB"
 }
+// Harmony
+{
+  "crossMint721": "0x0Ca40B486788d255607C343f7d221A08ef7e2634",
+  "crossMint1155": "0x9F6870fEbe91D842f8602E2E594fa2D5C96a5637"
+}
 ```
 
 ### [1.0.1](cross-mint/1.0.1/)
