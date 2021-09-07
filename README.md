@@ -129,8 +129,10 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 ---
 
-## Cross Send
+## [Cross Send](cross-send/)
 
-### 1.0.0
+### [1.0.0](cross-send/1.0.0/)
 
-- Beosin: Ongoing
+- Beosin: [Pass](cross-send/1.0.0/Beosin%20Audit%20-%20Cross%20Send%20V1.0.0.pdf)
+
+---
