@@ -137,7 +137,7 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 ---
 
-## XXX
+## [IHO](iho/)
 
 ### 1.0.0
 
@@ -145,7 +145,7 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 --- 
 
-## XXX
+## [HOTVIP](hotvip/)
 
 ### 1.0.0
 
