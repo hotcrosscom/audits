@@ -139,7 +139,7 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 ## [IHO](iho/)
 
-### 1.0.0
+### [1.0.0](iho/1.0.0/)
 
 - Beosin: Pass
 
@@ -147,7 +147,7 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 ## [HOTVIP](hotvip/)
 
-### 1.0.0
+### [1.0.0](hotvip/1.0.0/)
 
 - Beosin: Pass
 
