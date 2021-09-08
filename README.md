@@ -139,16 +139,16 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 ## [IHO](iho/)
 
-### [1.0.0](iho/1.0.0/Beosin%20Audit%20-%20IHO%20V1.0.0.pdf)
+### [1.0.0](iho/1.0.0/)
 
-- Beosin: Pass
+- Beosin: [Pass](iho/1.0.0/Beosin%20Audit%20-%20IHO%20V1.0.0.pdf)
 
 --- 
 
 ## [HOTVIP](hotvip/)
 
-### [1.0.0](hotvip/1.0.0/Beosin%20Audit%20-%20HOTVIP%20V1.0.0.pdf)
+### [1.0.0](hotvip/1.0.0/)
 
-- Beosin: Pass
+- Beosin: [Pass](hotvip/1.0.0/Beosin%20Audit%20-%20HOTVIP%20V1.0.0.pdf)
 
 ---
