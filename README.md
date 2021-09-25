@@ -133,6 +133,7 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 ### [1.0.0](cross-send/1.0.0/)
 
+- Omniscia: [Pass](https://omniscia.io/hotcross-cross-send/)
 - Beosin: [Pass](cross-send/1.0.0/Beosin%20Audit%20-%20Cross%20Send%20V1.0.0.pdf)
 
 ---
@@ -149,6 +150,7 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 ### [1.0.0](hotvip/1.0.0/)
 
+- Omniscia: [Pass](https://omniscia.io/hotcross-hotvip/)
 - Beosin: [Pass](hotvip/1.0.0/Beosin%20Audit%20-%20HOTVIP%20V1.0.0.pdf)
 
 ---
