@@ -16,6 +16,7 @@ We have thus far conducted audits with [Beosin](https://lianantech.com/), [SlowM
 - Current Supply: https://api.hotcross.com/supply
 - [Ethereum](https://ethereum.org/) Contract Address: [0x4297394c20800E8a38A619A243E9BbE7681Ff24E](https://etherscan.io/address/0x4297394c20800e8a38a619a243e9bbe7681ff24e) (Canonical)
 - [Binance Smart Chain](https://www.binance.org/en/smartChain) Contract Address: [0x4FA7163E153419E0E1064e418dd7A99314Ed27b6](https://bscscan.com/address/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6) (Bridge) ([link](https://bridge.hotcross.com/))
+- [Avalanche C-Chain](https://www.avax.network/) Contract Address: [0x2f86508f41310D8D974B76deb3D246c0caa71cf5](https://cchain.explorer.avax.network/tokens/0x2f86508f41310D8D974B76deb3D246c0caa71cf5/token-transfers) (Bridge) ([link](https://bridge.hotcross.com/))
 - [Polygon](https://polygon.technology/) Contract Address: [0x3b737a181f7d2532cF49864f8050b3465a310593](https://polygonscan.com/token/0x3b737a181f7d2532cF49864f8050b3465a310593) (3rd-Party Mapped) ([link](https://mapper.matic.today/))
 - [Harmony](https://www.harmony.one/) Contract Address: [one1u0tuw46yh9m09kkxs7znwjtwwhm754h3lp0jzn](https://explorer.harmony.one/address/0xe3d7c75744b976f2dac6878537496e75f7ea56f1) (3rd-Party Bridge) ([link](https://bridge.harmony.one/))
 
