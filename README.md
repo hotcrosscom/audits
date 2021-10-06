@@ -155,3 +155,12 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 - Beosin: [Pass](hotvip/1.0.0/Beosin%20Audit%20-%20HOTVIP%20V1.0.0.pdf)
 
 ---
+
+## [Cross Yield](cross-yield/)
+
+### [1.0.0](cross-yield/1.0.0/)
+
+- Omniscia: [Pass](https://omniscia.io/hotcross-cross-yield)
+- Beosin: [Pass](cross-yield/1.0.0/Beosin%20Audit%20Report%20-%20Cross%20Yield%20V1.0.0.pdf)
+
+---
