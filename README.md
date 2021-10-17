@@ -164,3 +164,10 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 - Beosin: [Pass](cross-yield/1.0.0/Beosin%20Audit%20Report%20-%20Cross%20Yield%20V1.0.0.pdf)
 
 ---
+
+## [KYC](cross-kyc/)
+
+### [1.0.0](cross-kyc/1.0.0/)
+
+- Beosin: [Pass](cross-kyc/1.0.0/Beosin%20Audit%20-%20Hot%20Cross%20KYC%20V1.0.0.pdf)
+- CertiK: [Pass](cross-kyc/1.0.0/CertiK%20Audit%20-%20Hot%20Cross%20KYC%20V1.0.0.pdf)
