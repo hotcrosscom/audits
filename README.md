@@ -14,6 +14,7 @@ We have thus far conducted audits with [Beosin](https://lianantech.com/), [SlowM
 - Total Supply: `500,000,000`
 - Initial Circulating Supply: `85,750,000` (The full token emission schedule is [here](https://hotcross.link/hotcross-economy).)
 - Current Supply: https://api.hotcross.com/supply
+- Current Circulating Supply: https://api.hotcross.com/circulating
 - [Ethereum](https://ethereum.org/) Contract Address: [0x4297394c20800E8a38A619A243E9BbE7681Ff24E](https://etherscan.io/address/0x4297394c20800e8a38a619a243e9bbe7681ff24e) (Canonical)
 - [Binance Smart Chain](https://www.binance.org/en/smartChain) Contract Address: [0x4FA7163E153419E0E1064e418dd7A99314Ed27b6](https://bscscan.com/address/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6) (Bridge) ([link](https://bridge.hotcross.com/))
 - [Avalanche C-Chain](https://www.avax.network/) Contract Address: [0x2f86508f41310D8D974B76deb3D246c0caa71cf5](https://cchain.explorer.avax.network/tokens/0x2f86508f41310D8D974B76deb3D246c0caa71cf5/token-transfers) (Bridge) ([link](https://bridge.hotcross.com/))
