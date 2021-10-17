@@ -167,6 +167,8 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 ## [KYC](cross-kyc/)
 
+🔑 These smart contracts implement functions that allow users to [register and modify their email information](https://app.hotcross.com/kyc) for products like IHO's and Launchpads. Users only need to pay a one-time fee to the charging address when registering and will always have access to Hot Cross products that require compliance. The owner of the smart contracts can only modify the fee and the fee receiving address. These fees are secured in a [Gnosis Safe](https://gnosis-safe.io/).
+
 ### [1.0.0](cross-kyc/1.0.0/)
 
 - Beosin: [Pass](cross-kyc/1.0.0/Beosin%20Audit%20-%20Hot%20Cross%20KYC%20V1.0.0.pdf)
