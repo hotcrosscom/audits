@@ -87,7 +87,7 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 ### Smart Contract Addresses ([BSC](https://bscscan.com/), [ETH](https://etherscan.io/), [MATIC](https://polygonscan.com/), [HECO](https://scan.hecochain.com/home/index), [KCC](https://explorer.kcc.io/en/))
 
-```json
+```
 // Binance Smart Chain
 {
   "crossMint721": "0x1316F7D656ea26Aa8141cb045329168b15E72186",
