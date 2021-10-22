@@ -163,6 +163,7 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 - Omniscia: [Pass](https://omniscia.io/hot-cross-cross-yield)
 - Beosin: [Pass](cross-yield/1.0.0/Beosin%20Audit%20Report%20-%20Cross%20Yield%20V1.0.0.pdf)
+- CertiK: [Pass](cross-yield/1.0.0/CertiK%20Audit%20Report%20-%20Cross%20Yield%20V1.0.0.pdf)
 
 ---
 
