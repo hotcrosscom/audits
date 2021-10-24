@@ -137,6 +137,7 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 - Omniscia: [Pass](https://omniscia.io/hot-cross-cross-send/)
 - Beosin: [Pass](cross-send/1.0.0/Beosin%20Audit%20-%20Cross%20Send%20V1.0.0.pdf)
+- PeckShield: [Pass](cross-send/1.0.0/PeckShield%20Audit%20-%20Cross%20Send%20V1.0.0.pdf)
 
 ---
 
@@ -145,6 +146,7 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 ### [1.0.0](iho/1.0.0/)
 
 - Beosin: [Pass](iho/1.0.0/Beosin%20Audit%20-%20IHO%20V1.0.0.pdf)
+- PeckShield: [Pass](iho/1.0.0/PeckShield%20Audit%20-%20IHO%20V1.0.0.pdf)
 
 --- 
 
@@ -154,6 +156,7 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 - Omniscia: [Pass](https://omniscia.io/hot-cross-hotvip/)
 - Beosin: [Pass](hotvip/1.0.0/Beosin%20Audit%20-%20HOTVIP%20V1.0.0.pdf)
+- PeckShield: [Pass](hotvip/1.0.0/PeckShield%20Audit%20-%20HOTVIP%20V1.0.0.pdf)
 
 ---
 
@@ -164,6 +167,7 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 - Omniscia: [Pass](https://omniscia.io/hot-cross-cross-yield)
 - Beosin: [Pass](cross-yield/1.0.0/Beosin%20Audit%20Report%20-%20Cross%20Yield%20V1.0.0.pdf)
 - CertiK: [Pass](cross-yield/1.0.0/CertiK%20Audit%20Report%20-%20Cross%20Yield%20V1.0.0.pdf)
+- PeckShield: [Pass](cross-yield/1.0.0/PeckShield%20Audit%20Report%20-%20Cross%20Yield%20V1.0.0.pdf)
 
 ---
 
