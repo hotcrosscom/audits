@@ -20,6 +20,7 @@ We have thus far conducted audits with [Beosin](https://lianantech.com/), [SlowM
 - [Avalanche C-Chain](https://www.avax.network/) Contract Address: [0x2f86508f41310D8D974B76deb3D246c0caa71cf5](https://cchain.explorer.avax.network/tokens/0x2f86508f41310D8D974B76deb3D246c0caa71cf5/token-transfers) (Bridge) ([link](https://bridge.hotcross.com/))
 - [Polygon](https://polygon.technology/) Contract Address: [0x3b737a181f7d2532cF49864f8050b3465a310593](https://polygonscan.com/token/0x3b737a181f7d2532cF49864f8050b3465a310593) (3rd-Party Mapped) ([link](https://mapper.matic.today/))
 - [Harmony](https://www.harmony.one/) Contract Address: [one1u0tuw46yh9m09kkxs7znwjtwwhm754h3lp0jzn](https://explorer.harmony.one/address/0xe3d7c75744b976f2dac6878537496e75f7ea56f1) (3rd-Party Bridge) ([link](https://bridge.harmony.one/))
+- [Solana](https://solana.com/) Contract Address: [64LRWE7xXGzJnNdr7mdKKjajqWxMScRaoSnArS4hj4Tu](https://explorer.solana.com/address/64LRWE7xXGzJnNdr7mdKKjajqWxMScRaoSnArS4hj4Tu/) (3rd-Party Bridge) ([link](https://wormholebridge.com/#/))
 
 Canonical (and thus its audits) resides on Ethereum. The Binance Smart Chain BEP20 is an ever-fluctuating supply that relies on the inflow and outflow of [Cross Bridge](https://bridge.hotcross.com/), and 3rd-party mapped assets rely on those bridge technologies.
 
