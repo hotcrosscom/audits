@@ -133,6 +133,10 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 ## [Cross Send](cross-send/)
 
+### [1.0.0](cross-send/1.0.1/)
+
+- SlowMist: [Pass](cross-send/1.0.1/SlowMist%20Audit%20-%20Cross%20Send%20V1.0.1.pdf)
+
 ### [1.0.0](cross-send/1.0.0/)
 
 - Omniscia: [Pass](https://omniscia.io/hot-cross-cross-send/)
@@ -147,6 +151,7 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 - Beosin: [Pass](iho/1.0.0/Beosin%20Audit%20-%20IHO%20V1.0.0.pdf)
 - PeckShield: [Pass](iho/1.0.0/PeckShield%20Audit%20-%20IHO%20V1.0.0.pdf)
+- SlowMist: [Pass](iho/1.0.0/SlowMist%20Audit%20-%20IHO%20V1.0.0.pdf)
 
 --- 
 
@@ -168,6 +173,7 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 - Beosin: [Pass](cross-yield/1.0.0/Beosin%20Audit%20Report%20-%20Cross%20Yield%20V1.0.0.pdf)
 - CertiK: [Pass](cross-yield/1.0.0/CertiK%20Audit%20Report%20-%20Cross%20Yield%20V1.0.0.pdf)
 - PeckShield: [Pass](cross-yield/1.0.0/PeckShield%20Audit%20Report%20-%20Cross%20Yield%20V1.0.0.pdf)
+- SlowMist: [Pass](cross-yield/1.0.0/SlowMist%20Audit%20Report%20-%20Cross%20Yield%20V1.0.0.pdf)
 
 ---
 
