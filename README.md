@@ -22,7 +22,7 @@ We have thus far conducted audits with [Beosin](https://lianantech.com/), [SlowM
 - [Harmony](https://www.harmony.one/) Contract Address: [one1u0tuw46yh9m09kkxs7znwjtwwhm754h3lp0jzn](https://explorer.harmony.one/address/0xe3d7c75744b976f2dac6878537496e75f7ea56f1) (3rd-Party Bridge) ([link](https://bridge.harmony.one/))
 - [Solana](https://solana.com/) Contract Address: [64LRWE7xXGzJnNdr7mdKKjajqWxMScRaoSnArS4hj4Tu](https://explorer.solana.com/address/64LRWE7xXGzJnNdr7mdKKjajqWxMScRaoSnArS4hj4Tu/) (3rd-Party Bridge) ([link](https://wormholebridge.com/#/))
 
-Canonical (and thus its audits) resides on Ethereum. The Binance Smart Chain BEP20 is an ever-fluctuating supply that relies on the inflow and outflow of [Cross Bridge](https://bridge.hotcross.com/), and 3rd-party mapped assets rely on those bridge technologies.
+Canonical (and thus its EVM audits) resides on Ethereum. The Binance Smart Chain BEP20 is an ever-fluctuating supply that relies on the inflow and outflow of [Cross Bridge](https://bridge.hotcross.com/), and 3rd-party mapped assets rely on those bridge technologies. Supply for the asset is always updated at the following API endpoint: https://api.hotcross.com/supply.
 
 ### [1.0.2](cross-token/1.0.2/)
 
