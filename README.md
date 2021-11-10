@@ -156,7 +156,7 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 --- 
 
-## [HOTVIP](hotvip/)
+## [HOTDOG](hotvip/)
 
 ### [1.0.0](hotvip/1.0.0/)
 
