@@ -4,6 +4,8 @@ This repository contains a public-facing list of audits that have been performed
 
 We have thus far conducted audits with [Beosin](https://lianantech.com/), [SlowMist](https://www.slowmist.com/), [Omniscia](https://omniscia.io/), [Zokyo](https://www.zokyo.io/), [CertiK](https://www.certik.org/), and [PeckShield](https://peckshield.com/en).
 
+Thorough documentation of these audits can also be found [here](https://docs.hotcross.com/oink/guides/audits).
+
 ## [Hot Cross Token and Vesting](cross-token/)
 
 ### General Information
