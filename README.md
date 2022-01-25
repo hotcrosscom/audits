@@ -136,6 +136,38 @@ In the first iteration of [Cross Pool](https://crosspool.hotcross.com/), which h
 
 ## [Cross Send](cross-send/)
 
+```
+Ethereum
+crossSend deployed at 0xC1B23dB9B4F47C2Ecdd49966C791D3aee664e960
+feeManager deployed at 0xAa53844Cc60DC6A594E0aa64A1CFe36C3D1657f1
+
+Binance Smart Chain
+crossSend deployed at 0xe4eAf4AB33e833e9cfbD1B148d4B7E854aA292bF
+feeManager deployed at 0x36FA4397ac013C73a1A26063192A6B90F7B8e160
+
+Polygon
+crossSend deployed at 0xd9ed978a5915a85d5d893A2047451FC2c6113c78
+feeManager deployed at 0x84312ddd50f253B9051aE005f0026b0D28Fe03A2
+
+Harmony
+crossSend deployed at 0xe4eAf4AB33e833e9cfbD1B148d4B7E854aA292bF
+feeManager deployed at 0x36FA4397ac013C73a1A26063192A6B90F7B8e160
+
+Avalanche
+crossSend deployed at 0xe4eAf4AB33e833e9cfbD1B148d4B7E854aA292bF
+feeManager deployed at 0x36FA4397ac013C73a1A26063192A6B90F7B8e160
+
+HECO
+crossSend deployed at 0xe4eAf4AB33e833e9cfbD1B148d4B7E854aA292bF
+feeManager deployed at 0x36FA4397ac013C73a1A26063192A6B90F7B8e160
+
+KCC
+crossSend deployed at 0xe4eAf4AB33e833e9cfbD1B148d4B7E854aA292bF
+feeManager deployed at 0x36FA4397ac013C73a1A26063192A6B90F7B8e160
+```
+
+---
+
 ### [1.0.0](cross-send/1.0.1/)
 
 - SlowMist: [Pass](cross-send/1.0.1/SlowMist%20Audit%20-%20Cross%20Send%20V1.0.1.pdf)
